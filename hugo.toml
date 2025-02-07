@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '~/srmorita'
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
+enableEmoji = true
+enableInlineShortcodes = true
+
+[params]
+  description = "Blog personal y cajón de desastres.."
+  author = "~/srmorita"
+
+[menu]
+[[menu.main]]
+identifier = "inicio"
+name = "/Inicio"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "blog"
+name = "/Blog"
+url = "/blog"
+weight = 20
+
+[[menu.main]]
+identifier = "ahora"
+name = "/Ahora"
+url = "/ahora"
+weight = 30
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[outputs]
+home = ["HTML", "RSS"]

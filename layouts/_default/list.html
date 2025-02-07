@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h2>Posts</h2>
+{{ range (where .Site.RegularPages "Type" "in" (slice "blog")).GroupByDate "2006" }}
+<h3>{{ .Key }}</h3>
+<ul class="post-list">
+  {{ range .Pages }}
+  <li>
+    <time datetime="{{ .Date.Format "02-01-2006" }}">{{ .Date.Format "02-01-2006" }}</time>&nbsp;
+    <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{- end -}}
+</ul>
+{{ end }}
+{{ end }}
