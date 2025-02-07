@@ -3,13 +3,15 @@ title = "Home"
 +++
 ## Hola :wave:
 
-Bienvenido a mi espacio en internet.
+Soy un obrero del código como leí por ahí y me pareció una expresión genial. Trabajo en calidad de software así que todo lo que comparto posiblemente sea sobre esta temática.
 
-Me apasiona todo lo que tenga que ver con tecnologías [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.es.html "¿Que es FLOSS?")  y soy usuario de [software libre](https://www.gnu.org/philosophy/free-sw.es.html "¿Qué es software libre?").
+Me apasiona también todo lo que tenga que ver con tecnologías [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.es.html "¿Que es FLOSS?")  y soy usuario de [software libre](https://www.gnu.org/philosophy/free-sw.es.html "¿Qué es software libre?").
 
-Este es un blog personal por lo tanto, las opiniones que encuentres dentro de él reflejan mis ideas, pensamientos y puede que no sean igual a las tuyas. Además, es un cajón de _desastres_ donde comparto todo lo que voy aprendiendo.
+Este es un blog personal por lo tanto, las opiniones que encuentres dentro de él reflejan mis ideas, pensamientos y puede que no sean igual a las tuyas.
 
-Por último, este sitio respeta tu privacidad y no encontrarás ningun tracker o cookie de seguimiento.
+Por último, este sitio respeta tu privacidad y no encontrarás ningun tracker, cookie de seguimiento o almacenamiento de ip. No tengo un sistema de comentarios tampoco, ya que, produce una cantidad importante de spam y no dispongo del tiempo para gestionarlo.
+
+Si algo de este lugar te sirve, agradecería enormemente el que puedas compartirlo!!!
 
 ## Contacto :envelope:
 
