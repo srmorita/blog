@@ -5,6 +5,7 @@ disableKinds = ['taxonomy', 'term']
 enableRobotsTXT = true
 enableEmoji = true
 enableInlineShortcodes = true
+pluralizeListTitles = false
 
 [params]
   description = "Blog personal y cajón de desastres.."
@@ -13,19 +14,19 @@ enableInlineShortcodes = true
 [menu]
 [[menu.main]]
 identifier = "inicio"
-name = "/Inicio"
+name = "Inicio"
 url = "/"
 weight = 10
 
 [[menu.main]]
 identifier = "blog"
-name = "/Blog"
+name = "Blog"
 url = "/blog"
 weight = 20
 
 [[menu.main]]
 identifier = "ahora"
-name = "/Ahora"
+name = "Ahora"
 url = "/ahora"
 weight = 30
 
