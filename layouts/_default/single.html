@@ -2,7 +2,7 @@
 <article itemscope itemtype="http://schema.org/Article">
   <header>
     <h2 itemprop="name">{{ .Title }}</h2>
-    <span><time datetime="{{ .Date.Format " 02-01-2006" }}">{{ .Date.Format "02-01-2006" }}</time></span>
+    <span><time datetime="{{ .Date.Format "02 Jan, 2006" }}">{{ .Date.Format "02 Jan, 2006" }}</time></span>
     <span>&ndash; {{ .WordCount }} palabras</span>
     {{ if gt .ReadingTime 1 }}
     {{ .Scratch.Set "timeUnit" "minutos" }}
