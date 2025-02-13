@@ -12,7 +12,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Escuchando :musical_note:
 
-- [Circle of Stone](https://www.blazebayley.net/lyrics/circle.htm "Circle of Stone Album by Blaze Bayley") El genial e infravalorado vocalista de __Iron Maiden__ en los discos _X Factor_ y _Virtual XI_.
+- [Circle of Stone](https://www.blazebayley.net/lyrics/circle.htm "Circle of Stone Album by Blaze Bayley") __Blaze Bayley__ el genial e infravalorado vocalista de __Iron Maiden__ en los discos _X Factor_ y _Virtual XI_.
 
 ### Leyendo :book:
 
