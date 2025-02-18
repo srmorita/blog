@@ -1,6 +1,6 @@
 +++
 date = '2025-02-18T07:33:47-03:00'
-draft = true
+draft = false
 title = 'Migrando mi sistema de notas a Emacs'
 description = "Migrando mi sistema de notas a Emacs"
 keywords = ['emacs']
