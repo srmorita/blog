@@ -17,5 +17,5 @@ Si algo de este lugar te sirve, agradecería enormemente el que puedas compartir
 
 Me puedes encontrar en:
 
-- [Mastodon](https://rebel.ar/@srmorita "Mi cuenta en Mastodon")
+- [Mastodon](https://lile.cl/@srmorita "Mi cuenta en Mastodon")
 - [GitHub](https://github.com/srmorita "Mi cuenta en GitHub")
