@@ -1,6 +1,7 @@
 +++
 date = '2025-07-04T20:33:00-04:00'
 draft = false
+slug = 'primeros-pasos-tras-una-instalacion-experta-en-debian'
 title = 'Primeros pasos tras una instalación experta en Debian'
 description = "Primeros pasos tras una instalación experta en Debian"
 keywords = ['debian, gnu, linux']
