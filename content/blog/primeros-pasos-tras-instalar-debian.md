@@ -1,8 +1,8 @@
 +++
 date = '2025-07-04T20:33:00-04:00'
 draft = false
-title = 'Primeros pasos tras instalar Debian'
-description = "Primeros pasos tras instalar Debian"
+title = 'Primeros pasos tras una instalación experta en Debian'
+description = "Primeros pasos tras una instalación experta en Debian"
 keywords = ['debian, gnu, linux']
 +++
 Uno de mis sistemas __GNU/Linux__ favorito es [Debian](https://www.debian.org/ "Debian Website") y cada vez que lo instalo casi siempre realizo los mismos pasos y la verdad nunca lo he compartido así que aquí te dejo una mini guía de lo que hago tras instalar _Debian_.
@@ -48,7 +48,7 @@ deb [arch=amd64] http://ftp.cl.debian.org/debian/ stable-updates main contrib no
 En el repositorio security podemos tener algunos problemas de sincronización si es que no hemos configurado correctamente la zona horaria en nuestro equipo, se resuelve configurando __ntp__ o en mi caso prefiero usar _systemd-timesyncd_
 
 ```bash
-sudo systemctl start systemd-timesyncd
+sudo systemctl enable systemd-timesyncd
 ```
 
 Y reinicia...
@@ -107,7 +107,7 @@ sudo apt install gnome-core gdm
 sudo apt install xfce4 xfce4-goodies gvfs-backends ttf-bitstream-vera lightdm lightdm-gtk-greeter pavucontrol network-manager-gnome
 ```
 
-Para configurar _NetworkManager_ gestionar nuestras conexiones de red, modificamos el archivo `/etc/NetworkManager/NetworkManager.conf`:
+Para que _NetworkManager_ gestione nuestras conexiones de red, modificamos el archivo `/etc/NetworkManager/NetworkManager.conf`:
 
 ```bash
 sudo nano /etc/NetworkManager/NetworkManager.conf
