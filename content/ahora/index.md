@@ -11,7 +11,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Escuchando :musical_note:
 
-- Por ahora no he etado descubriendo nueva música.
+- Por ahora no he descubierto nueva música.
 
 ### Leyendo :book:
 
