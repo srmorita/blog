@@ -8,11 +8,10 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 ### Aprendiendo :school:
 
 - [Playwrigth](https://playwright.dev/ "PLaywright web") por temas laborales.
-- [TypeScript](https://www.typescriptlang.org/ "TypeScript Web") esto es heredado del punto anterior.
 
 ### Escuchando :musical_note:
 
-- [Circle of Stone](https://www.blazebayley.net/lyrics/circle.htm "Circle of Stone Album by Blaze Bayley") __Blaze Bayley__ el genial e infravalorado vocalista de __Iron Maiden__ en los discos _X Factor_ y _Virtual XI_.
+- Por ahora no he etado descubriendo nueva música.
 
 ### Leyendo :book:
 
