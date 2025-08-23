@@ -33,8 +33,6 @@ weight = 30
 [markup]
  [markup.goldmark.renderer]
   unsafe = true
- [markup.highlight]
-  style = 'monokai'
 
 [sitemap]
 changefreq = "monthly"
