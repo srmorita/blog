@@ -1,0 +1,6 @@
+@media (prefers-color-scheme: dark) {
+    :root{font-size:62.5%;--fg:#aaa;--h:#efefef;--bg:#000;--b:#333;--p:#eee;--def:#121212}
+    img, video {
+        opacity: 0.8;
+    }
+}
