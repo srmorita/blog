@@ -20,3 +20,6 @@ Estos son algunos de los sitios que suelo visitar, la mayoría son blogs persona
 13. [Tecno & Soft](https://tecnoysoft.com/ 'Tecno & Soft')
 14. [Gato Oscuro](https://gatooscuro.xyz/ 'Gato oscuro')
 15. [Moribundo Insurgente](https://moribundoinsurgente.noblogs.org/ 'Moribundo Insurgente')
+16. [El Blog de Lazaro](https://elblogdelazaro.org/ 'El Blog de Lazaro')
+17. [Atareao](https://atareao.es 'Atareao')
+18. [H4ackseed](https://h4ckseed.wordpress.com/ 'H4ackseed')
