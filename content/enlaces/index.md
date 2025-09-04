@@ -23,3 +23,4 @@ Estos son algunos de los sitios que suelo visitar, la mayoría son blogs persona
 16. [El Blog de Lazaro](https://elblogdelazaro.org/ 'El Blog de Lazaro')
 17. [Atareao](https://atareao.es 'Atareao')
 18. [H4ackseed](https://h4ckseed.wordpress.com/ 'H4ackseed')
+19. [Matizeta](https://matizeta.com/ 'Matizeta')
