@@ -5,7 +5,7 @@
     --bg: #fefefe;
     --b: #ccc;
     --p: #000;
-    --def: #eee
+    --def: #eee;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -17,7 +17,7 @@
         --bg: #000;
         --b: #333;
         --p: #eee;
-        --def: #121212
+        --def: #121212;
     }
 
     /* Add a bit of transparency so light media isn't so glaring in dark mode */
@@ -34,34 +34,28 @@
     box-sizing: border-box;
 }
 
-.container {
-    position: relative;
-    width: 100%;
-    max-width: 70rem;
-    margin: 0 auto;
-    font-size: 1.8rem
-}
-
-.content {
-    width: calc(100% - 5rem);
-    margin: auto;
-    overflow: hidden
-}
-
-@media (min-width:420px) {
-    .container {
-        width: 90%;
-        padding: 0
-    }
-}
-
 body {
     margin: 0;
     line-height: 1.6;
     font-family: system-ui, sans-serif;
     font-weight: normal;
     color: var(--fg);
-    background-color: var(--bg)
+    background-color: var(--bg);
+    text-rendering: optimizeLegibility;
+    word-wrap: break-word;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 70rem;
+    margin: 0 auto;
+    font-size: 1.8rem;
+}
+
+.content {
+    width: calc(100% - 5rem);
+    margin: auto;
+    overflow: hidden;
 }
 
 h1,
@@ -69,18 +63,18 @@ h2,
 h3 {
     line-height: 1.2;
     font-family: system-ui, sans-serif;
-    color: var(--h)
+    color: var(--h);
 }
 
 a {
-    color: var(--p)
+    color: var(--p);
 }
 
 a:hover,
 .btn:hover,
 input[type=submit]:hover {
     opacity: .8;
-    cursor: pointer
+    cursor: pointer;
 }
 
 code,
@@ -97,7 +91,7 @@ kbd {
 
 kbd {
     border-bottom: .3rem solid var(--b);
-    padding: .3rem .4em
+    padding: .3rem .4em;
 }
 
 input,
@@ -116,77 +110,77 @@ pre>*,
     max-width: 100%;
     color: var(--fg);
     background-color: var(--def);
-    text-decoration: none
+    text-decoration: none;
 }
 
 textarea {
     height: 15rem;
-    white-space: pre-wrap
+    white-space: pre-wrap;
 }
 
 select {
-    padding: .9rem
+    padding: .9rem;
 }
 
 pre>*,
 table {
     display: block;
-    white-space: pre
+    white-space: pre;
 }
 
 pre>samp {
-    line-height: 1.1
+    line-height: 1.1;
 }
 
 textarea,
 pre>*,
 table {
-    margin: .5rem 0
+    margin: .5rem 0;
 }
 
 pre>*,
 table,
 form {
-    overflow: auto
+    overflow: auto;
 }
 
 table {
     white-space: normal;
     padding: 0;
-    font-size: 90%
+    font-size: 90%;
 }
 
 blockquote {
     white-space: normal;
     padding: 1rem;
     margin: 0;
-    border-left: .4rem solid var(--b)
+    border-left: .4rem solid var(--b);
 }
 
 form {
     white-space: nowrap;
-    display: block
+    display: block;
 }
 
 th,
 td {
     padding: 1rem 1.1rem;
     text-align: justify;
-    border-bottom: .1rem solid var(--b)
+    border-bottom: .1rem solid var(--b);
 }
 
 .primary {
     background-color: var(--p);
-    color: var(--def)
+    color: var(--def);
 }
 
 .default {
     background-color: var(--def);
-    color: var(--fg)
+    color: var(--fg);
 }
 
 hr {
-    border: .1rem solid var(--b)
+    border: .1rem solid var(--b);
 }
 
 .post-list li {
@@ -200,4 +194,11 @@ article>footer {
 
 footer p {
     text-align: center;
+}
+
+@media (min-width:420px) {
+    .container {
+        width: 90%;
+        padding: 0;
+    }
 }
