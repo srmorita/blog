@@ -1,2 +1,6 @@
 @import "_variables.css";
 @import "_core.css";
+
+.lists-post {
+    list-style-type: none;
+}
