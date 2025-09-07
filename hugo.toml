@@ -1,6 +1,6 @@
 baseURL = 'https://srmorita.xyz/'
 languageCode = 'en-us'
-title = '~/srmorita'
+title = '~/home/srmorita'
 disableKinds = ['taxonomy', 'term']
 enableRobotsTXT = true
 enableEmoji = true
