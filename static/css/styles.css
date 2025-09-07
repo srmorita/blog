@@ -58,7 +58,8 @@
 body {
     margin: 0;
     line-height: 1.6;
-    font-family: monospace;
+    font-family: system-ui, sans-serif;
+    font-weight: normal;
     color: var(--fg);
     background-color: var(--bg)
 }
@@ -67,7 +68,7 @@ h1,
 h2,
 h3 {
     line-height: 1.2;
-    font-family: sans-serif;
+    font-family: system-ui, sans-serif;
     color: var(--h)
 }
 
@@ -90,7 +91,8 @@ kbd {
     color: var(--fg);
     background-color: var(--def);
     white-space: nowrap;
-    border: solid .1rem var(--b)
+    border: solid .1rem var(--b);
+    font-family: monospace;
 }
 
 kbd {
