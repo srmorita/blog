@@ -29,19 +29,17 @@
     {{ template "_internal/twitter_cards.html" . }}
 </head>
 
-<body class="container" itemscope itemtype="http://schema.org/Blog">
-    <div class="content">
-        <header>
-            {{ partial "nav.html" . }}
-        </header>
-        <main>
-            {{ block "main" . }}{{ end }}
-        </main>
-        <hr>
-        <footer>
-            {{ partial "footer.html" . }}
-        </footer>
-    </div>
+<body itemscope itemtype="http://schema.org/Blog">
+    <header>
+        <h1><i>{{ .Site.Title }}</i></h1>
+    </header>
+    {{ partial "nav.html" . }}
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        {{ partial "footer.html" . }}
+    </footer>
 </body>
 
 </html>

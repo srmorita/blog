@@ -8,7 +8,7 @@ keywords = ['debian, gnu, linux']
 +++
 Uno de mis sistemas __GNU/Linux__ favorito es [Debian](https://www.debian.org/ "Debian Website") y cada vez que lo instalo casi siempre realizo los mismos pasos y la verdad nunca lo he compartido así que aquí te dejo una mini guía de lo que hago tras instalar _Debian_.
 
-__DISCLAIMER__, esto asume que realizaste una instalación experta y solo instalaste las _utilidades estandar del sistema_ en una versión Debian 12.
+> __DISCLAIMER__, esto asume que realizaste una instalación experta y solo instalaste las _utilidades estandar del sistema_ en una versión Debian 12.
 
 ### Agregar usuario al sudoers file
 
