@@ -19,4 +19,4 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Viendo :film_projector:
 
-- Flash Temporada 1, no había terminado de verla así que comencé de nuevo.
+- Flash Temporada 5, no había terminado de verla así que comencé de nuevo.
