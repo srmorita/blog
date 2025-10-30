@@ -7,7 +7,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Aprendiendo :school:
 
-- [Playwrigth](https://playwright.dev/ "PLaywright web") por temas laborales.
+- Python.
 
 ### Escuchando :musical_note:
 
