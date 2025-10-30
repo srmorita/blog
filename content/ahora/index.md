@@ -11,7 +11,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Escuchando :musical_note:
 
-- Por ahora no he descubierto nueva música.
+- Symphony X.
 
 ### Leyendo :book:
 
@@ -19,4 +19,5 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Viendo :film_projector:
 
-- Flash Temporada 5, no había terminado de verla así que comencé de nuevo.
+- Flash Temporada 6
+- Gambito de Dama
