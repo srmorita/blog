@@ -7,7 +7,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Aprendiendo :school:
 
-- Python.
+- Python y PyTest.
 
 ### Escuchando :musical_note:
 
@@ -15,7 +15,7 @@ Esta es una [genial iniciativa](https://nownownow.com/about "Iniciativa /Now") p
 
 ### Leyendo :book:
 
-- [Ikigai](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722 "El secreto Japonés para una vida larga y feliz") un excelente libro sobre cómo llevar una vida equilibrada.
+- Aún sin tiempo para lecturas.
 
 ### Viendo :film_projector:
 
