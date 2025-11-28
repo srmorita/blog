@@ -1,6 +1,6 @@
 +++
 date = '2025-11-28T16:18:15-03:00'
-draft = true
+draft = false
 slug = 'mi-vuelta-a-ubuntu'
 title = 'Mi vuelta a Ubuntu'
 description = "He vuelto a Ubuntu en su versión 24.04.3"
